@@ -2,10 +2,10 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://example.org/post/first/</loc><lastmod>2024-11-11T12:23:03&#43;08:00</lastmod></url><url>
-            <loc>https://example.org/</loc><lastmod>2024-11-11T12:23:03&#43;08:00</lastmod></url><url>
-            <loc>https://example.org/post/</loc><lastmod>2024-11-11T12:23:03&#43;08:00</lastmod></url><url>
-            <loc>https://example.org/post/second/</loc><lastmod>2024-11-11T12:23:03&#43;08:00</lastmod></url><url>
-            <loc>https://example.org/about/</loc><lastmod>2024-11-06T00:34:57&#43;08:00</lastmod></url><url>
-            <loc>https://example.org/categories/</loc></url><url>
-            <loc>https://example.org/tags/</loc></url></urlset>
+            <loc>https://damao.vercel.app/</loc><lastmod>2024-11-11T12:23:03&#43;08:00</lastmod></url><url>
+            <loc>https://damao.vercel.app/post/first/</loc><lastmod>2024-11-11T12:23:03&#43;08:00</lastmod></url><url>
+            <loc>https://damao.vercel.app/post/</loc><lastmod>2024-11-11T12:23:03&#43;08:00</lastmod></url><url>
+            <loc>https://damao.vercel.app/post/second/</loc><lastmod>2024-11-11T12:23:03&#43;08:00</lastmod></url><url>
+            <loc>https://damao.vercel.app/about/</loc><lastmod>2024-11-06T00:34:57&#43;08:00</lastmod></url><url>
+            <loc>https://damao.vercel.app/categories/</loc></url><url>
+            <loc>https://damao.vercel.app/tags/</loc></url></urlset>
