@@ -1,0 +1,30 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>My New Hugo Site</title>
+        <link>https://example.org/</link>
+        <description>My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 11 Nov 2024 12:23:03 &#43;0800</lastBuildDate>
+            <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>First</title>
+    <link>https://example.org/post/first/</link>
+    <pubDate>Mon, 11 Nov 2024 12:23:03 &#43;0800</pubDate><author>
+                        <name>damao</name><uri>https://alice.example.com</uri><email>3034906016@qq.com</email></author><guid>https://example.org/post/first/</guid>
+    <description><![CDATA[<h1 id="用例图" class="headerLink">
+    <a href="#%e7%94%a8%e4%be%8b%e5%9b%be" class="header-mark"></a>用例图</h1><p>用例图是用来描述系统功能的一种图，它用例图描述了系统提供的功能以及如何使用这些功能。用例图包含以下元素：参与者、用例、关系。</p>]]></description>
+</item><item>
+    <title>Second</title>
+    <link>https://example.org/post/second/</link>
+    <pubDate>Mon, 11 Nov 2024 12:23:03 &#43;0800</pubDate><author>
+                        <name>damao</name><uri>https://alice.example.com</uri><email>3034906016@qq.com</email></author><guid>https://example.org/post/second/</guid>
+    <description><![CDATA[<h1 id="顺序图" class="headerLink">
+    <a href="#%e9%a1%ba%e5%ba%8f%e5%9b%be" class="header-mark"></a>顺序图</h1><div class="details admonition note open">
+    <div class="details-summary admonition-title">
+        <span class="icon"><svg class="icon"
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M497.9 142.1l-46.1 46.1c-4.7 4.7-12.3 4.7-17 0l-111-111c-4.7-4.7-4.7-12.3 0-17l46.1-46.1c18.7-18.7 49.1-18.7 67.9 0l60.1 60.1c18.8 18.7 18.8 49.1 0 67.9zM284.2 99.8L21.6 362.4.4 483.9c-2.9 16.4 11.4 30.6 27.8 27.8l121.5-21.3 262.6-262.6c4.7-4.7 4.7-12.3 0-17l-111-111c-4.8-4.7-12.4-4.7-17.1 0zM124.1 339.9c-5.5-5.5-5.5-14.3 0-19.8l154-154c5.5-5.5 14.3-5.5 19.8 0s5.5 14.3 0 19.8l-154 154c-5.5 5.5-14.3 5.5-19.8 0zM88 424h48v36.3l-64.5 11.3-31.1-31.1L51.7 376H88v48z"/></svg></span>Note<span class="details-icon"><svg class="icon"
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"/></svg></span>
+    </div>
+    <div class="details-content">
+        <div class="admonition-content"><p>Useful information that users should know, even when skimming content.</p>]]></description>
+</item></channel>
+</rss>
