@@ -1,11 +1,16 @@
-<urlset
-    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-    xmlns:xhtml="http://www.w3.org/1999/xhtml"
-    ><url>
-            <loc>https://www.damaoz.site/</loc><lastmod>2024-11-11T12:23:03&#43;08:00</lastmod></url><url>
-            <loc>https://www.damaoz.site/post/first/</loc><lastmod>2024-11-11T12:23:03&#43;08:00</lastmod></url><url>
-            <loc>https://www.damaoz.site/post/</loc><lastmod>2024-11-11T12:23:03&#43;08:00</lastmod></url><url>
-            <loc>https://www.damaoz.site/post/second/</loc><lastmod>2024-11-11T12:23:03&#43;08:00</lastmod></url><url>
-            <loc>https://www.damaoz.site/about/</loc><lastmod>2024-11-06T00:34:57&#43;08:00</lastmod></url><url>
-            <loc>https://www.damaoz.site/categories/</loc></url><url>
-            <loc>https://www.damaoz.site/tags/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://www.damaoz.site/en/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://www.damaoz.site/zh-cn/sitemap.xml</loc>
+    
+      <lastmod>2024-11-13T01:50:59+08:00</lastmod>
+    
+  </sitemap>
+  
+</sitemapindex>
