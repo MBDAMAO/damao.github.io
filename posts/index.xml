@@ -3,7 +3,28 @@
         <title>所有文章 - Damao Blog</title>
         <link>https://www.damaoz.site/posts/</link>
         <description>所有文章 | Damao Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 14 Nov 2024 13:23:03 &#43;0800</lastBuildDate><atom:link href="https://www.damaoz.site/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 14 Nov 2024 14:02:23 &#43;0800</lastBuildDate><atom:link href="https://www.damaoz.site/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>UML图 用例图</title>
+    <link>https://www.damaoz.site/uml%E5%9B%BE-%E7%94%A8%E4%BE%8B%E5%9B%BE/</link>
+    <pubDate>Thu, 14 Nov 2024 14:02:23 &#43;0800</pubDate><author>
+        <name>damao</name>
+    </author><guid>https://www.damaoz.site/uml%E5%9B%BE-%E7%94%A8%E4%BE%8B%E5%9B%BE/</guid>
+    <description><![CDATA[<h1 id="用例图" class="headerLink">
+    <a href="#%e7%94%a8%e4%be%8b%e5%9b%be" class="header-mark"></a>用例图</h1><h2 id="用例图概述" class="headerLink">
+    <a href="#%e7%94%a8%e4%be%8b%e5%9b%be%e6%a6%82%e8%bf%b0" class="header-mark"></a>用例图概述</h2><h3 id="用例图定义" class="headerLink">
+    <a href="#%e7%94%a8%e4%be%8b%e5%9b%be%e5%ae%9a%e4%b9%89" class="header-mark"></a>用例图定义</h3><p>用例图是用来描述系统功能的一种图，它从用户的角度描述了系统应该做什么。用例图是 UML 中的一种静态图，它用于描述系统与用户之间的交互关系。用例图包含以下元素：</p>
+<ul>
+<li>用例：用于描述系统提供的功能，是系统与用户之间的交互点。</li>
+<li>参与者：参与者和用例是相对应的，它描述了系统所涉及的人或事物。</li>
+<li>关联：关联关系用于描述用例与参与者之间的关系，它表示用例与参与者之间的交互。</li>
+<li>泛化：泛化关系用于描述用例之间的层次关系，它表示用例之间的继承关系。</li>
+<li>包含：包含关系用于描述用例之间的包含关系，它表示一个用例可以包含另一个用例。</li>
+<li>扩展：扩展关系用于描述用例之间的扩展关系，它表示一个用例可以扩展另一个用例。</li>
+<li>依赖：依赖关系用于描述用例与参与者之间的依赖关系，它表示一个用例依赖于另一个用例。</li>
+</ul>
+<h3 id="用例图的作用" class="headerLink">
+    <a href="#%e7%94%a8%e4%be%8b%e5%9b%be%e7%9a%84%e4%bd%9c%e7%94%a8" class="header-mark"></a>用例图的作用</h3><p>用例图的主要作用是描述系统的功能，它可以帮助开发人员理解系统的功能需求，为系统设计提供依据。用例图还可以帮助开发人员识别系统的边界，为系统设计提供指导。此外，用例图还可以帮助开发人员识别系统的风险，为系统设计提供参考。</p>]]></description>
+</item><item>
     <title>Test</title>
     <link>https://www.damaoz.site/test/</link>
     <pubDate>Thu, 14 Nov 2024 13:23:03 &#43;0800</pubDate><author>

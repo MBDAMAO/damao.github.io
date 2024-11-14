@@ -1,11 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Damao Blog</title>
-        <link>https://www.damaoz.site/</link>
-        <description>这是我的全新 Hugo 网站</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 14 Nov 2024 14:02:23 &#43;0800</lastBuildDate>
-            <atom:link href="https://www.damaoz.site/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+        <title>UML - 分类 - Damao Blog</title>
+        <link>https://www.damaoz.site/categories/uml/</link>
+        <description>UML - 分类 - Damao Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 14 Nov 2024 14:02:23 &#43;0800</lastBuildDate><atom:link href="https://www.damaoz.site/categories/uml/" rel="self" type="application/rss+xml" /><item>
     <title>UML图 用例图</title>
     <link>https://www.damaoz.site/uml%E5%9B%BE-%E7%94%A8%E4%BE%8B%E5%9B%BE/</link>
     <pubDate>Thu, 14 Nov 2024 14:02:23 &#43;0800</pubDate><author>
@@ -26,12 +24,5 @@
 </ul>
 <h3 id="用例图的作用" class="headerLink">
     <a href="#%e7%94%a8%e4%be%8b%e5%9b%be%e7%9a%84%e4%bd%9c%e7%94%a8" class="header-mark"></a>用例图的作用</h3><p>用例图的主要作用是描述系统的功能，它可以帮助开发人员理解系统的功能需求，为系统设计提供依据。用例图还可以帮助开发人员识别系统的边界，为系统设计提供指导。此外，用例图还可以帮助开发人员识别系统的风险，为系统设计提供参考。</p>]]></description>
-</item><item>
-    <title>Test</title>
-    <link>https://www.damaoz.site/test/</link>
-    <pubDate>Thu, 14 Nov 2024 13:23:03 &#43;0800</pubDate><author>
-        <name>damao</name>
-    </author><guid>https://www.damaoz.site/test/</guid>
-    <description><![CDATA[]]></description>
 </item></channel>
 </rss>
