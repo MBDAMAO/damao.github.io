@@ -2,55 +2,103 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://www.damaoz.site/zh-cn/authors/</loc><lastmod>2024-11-13T01:50:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://www.damaoz.site/authors/</loc><lastmod>2024-11-13T01:50:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://www.damaoz.site/authors/"
+                        href="https://www.damaoz.site/en/authors/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://www.damaoz.site/zh-cn/authors/"
+                    href="https://www.damaoz.site/authors/"
                     /></url><url>
-            <loc>https://www.damaoz.site/zh-cn/series/caocaobi/</loc><lastmod>2024-11-13T01:50:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://www.damaoz.site/zh-cn/categories/</loc><lastmod>2024-11-13T01:50:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://www.damaoz.site/series/caocaobi/</loc><lastmod>2024-11-13T01:50:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://www.damaoz.site/categories/</loc><lastmod>2024-11-13T01:50:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://www.damaoz.site/categories/"
+                        href="https://www.damaoz.site/en/categories/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://www.damaoz.site/zh-cn/categories/"
+                    href="https://www.damaoz.site/categories/"
                     /></url><url>
-            <loc>https://www.damaoz.site/zh-cn/categories/ce/</loc><lastmod>2024-11-13T01:50:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://www.damaoz.site/zh-cn/authors/damao/</loc><lastmod>2024-11-13T01:50:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://www.damaoz.site/zh-cn/</loc><lastmod>2024-11-13T01:50:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://www.damaoz.site/categories/ce/</loc><lastmod>2024-11-13T01:50:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://www.damaoz.site/"
+                        href="https://www.damaoz.site/en/categories/ce/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://www.damaoz.site/zh-cn/"
+                    href="https://www.damaoz.site/categories/ce/"
                     /></url><url>
-            <loc>https://www.damaoz.site/zh-cn/about/</loc><lastmod>2024-11-13T01:50:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://www.damaoz.site/zh-cn/posts/</loc><lastmod>2024-11-13T01:50:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://www.damaoz.site/zh-cn/series/</loc><lastmod>2024-11-13T01:50:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://www.damaoz.site/authors/damao/</loc><lastmod>2024-11-13T01:50:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://www.damaoz.site/series/"
+                        href="https://www.damaoz.site/en/authors/damao/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://www.damaoz.site/zh-cn/series/"
+                    href="https://www.damaoz.site/authors/damao/"
                     /></url><url>
-            <loc>https://www.damaoz.site/zh-cn/tags/</loc><lastmod>2024-11-13T01:50:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://www.damaoz.site/</loc><lastmod>2024-11-13T01:50:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://www.damaoz.site/tags/"
+                        href="https://www.damaoz.site/en/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://www.damaoz.site/zh-cn/tags/"
+                    href="https://www.damaoz.site/"
                     /></url><url>
-            <loc>https://www.damaoz.site/zh-cn/test/</loc><lastmod>2024-11-13T01:50:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://www.damaoz.site/zh-cn/tags/uml/</loc><lastmod>2024-11-13T01:50:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>
+            <loc>https://www.damaoz.site/about/</loc><lastmod>2024-11-13T01:50:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://www.damaoz.site/en/about/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://www.damaoz.site/about/"
+                    /></url><url>
+            <loc>https://www.damaoz.site/posts/</loc><lastmod>2024-11-13T01:50:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://www.damaoz.site/en/posts/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://www.damaoz.site/posts/"
+                    /></url><url>
+            <loc>https://www.damaoz.site/series/</loc><lastmod>2024-11-13T01:50:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://www.damaoz.site/en/series/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://www.damaoz.site/series/"
+                    /></url><url>
+            <loc>https://www.damaoz.site/tags/</loc><lastmod>2024-11-13T01:50:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://www.damaoz.site/en/tags/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://www.damaoz.site/tags/"
+                    /></url><url>
+            <loc>https://www.damaoz.site/test/</loc><lastmod>2024-11-13T01:50:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://www.damaoz.site/en/test/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://www.damaoz.site/test/"
+                    /></url><url>
+            <loc>https://www.damaoz.site/tags/uml/</loc><lastmod>2024-11-13T01:50:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://www.damaoz.site/en/tags/uml/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://www.damaoz.site/tags/uml/"
+                    /></url></urlset>
